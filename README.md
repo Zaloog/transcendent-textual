@@ -36,6 +36,7 @@ The aim of this wee document was to try and collect together links to as many [T
 
 ## Applications built with Textual
 
+- [ParLlama](https://github.com/paulrobello/parllama) - Terminal based UI for interfacing with and managing Ollama models.
 - [avocet](https://github.com/JoshuaOliphant/avocet) - A bookmark manager that interacts with the raindrop.io API.
 - [baca](https://github.com/wustho/baca) - A TUI Ebook Reader.
 - [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in your terminal.
