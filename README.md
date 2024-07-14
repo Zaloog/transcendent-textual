@@ -36,7 +36,6 @@ The aim of this wee document was to try and collect together links to as many [T
 
 ## Applications built with Textual
 
-- [ParLlama](https://github.com/paulrobello/parllama) - Terminal based UI for interfacing with and managing Ollama models.
 - [avocet](https://github.com/JoshuaOliphant/avocet) - A bookmark manager that interacts with the raindrop.io API.
 - [baca](https://github.com/wustho/baca) - A TUI Ebook Reader.
 - [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in your terminal.
@@ -78,6 +77,7 @@ The aim of this wee document was to try and collect together links to as many [T
 - [NoteSH](https://github.com/Cvaniak/NoteSH) - A fully functional sticky notes App in your Terminal
 - [OIDIA](https://github.com/davep/oidia) - A simple no-shaming terminal-based streak tracker.
 - [OSHit](https://github.com/davep/oshit) - A HackerNews reader for the terminal.
+- [ParLlama](https://github.com/paulrobello/parllama) - Terminal based UI for interfacing with and managing Ollama models.
 - [parq-inspector](https://github.com/jkausti/parq-inspector) - Parquet viewer for your terminal.
 - [PISpy](https://github.com/davep/pispy) - A simple client for looking up package information in the Python package index.
 - [prune-envs](https://github.com/davidfokkema/prune-envs) - Prune (conda) Environments.
