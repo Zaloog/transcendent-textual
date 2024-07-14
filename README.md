@@ -66,7 +66,7 @@ The aim of this wee document was to try and collect together links to as many [T
 - [http-tui](https://github.com/treyhunner/http-tui) - A client for testing out HTTP requests.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner.
 - [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal.
-- [Kayak](https://github.com/sauljabin/kayak) - ksqlDB text user interface.
+- [kaskade](https://github.com/sauljabin/kaskade) - A kafka text user interface.
 - [kupo](https://github.com/darrenburns/kupo) - A terminal-based file browser.
 - [langchain-serve](https://github.com/jina-ai/langchain-serve) - babyagi-as-a-service playground.
 - [lsp-devtools](https://github.com/swyddfa/lsp-devtools) - Tooling for working with language servers and clients.
