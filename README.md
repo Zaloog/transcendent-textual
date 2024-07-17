@@ -98,6 +98,7 @@ The aim of this wee document was to try and collect together links to as many [T
 - [tab-pal](https://github.com/ben-n93/tab-pal) - A TUI that makes it easier to add and edit custom colour palettes in Tableau.
 - [termlauncer](https://github.com/falldeaf/termlauncher) - A command-line based key launcher using Textual.
 - [termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
+- [textchat](https://github.com/rmblau/textchat) - A single server irc client for your terminal
 - [textual-bee](https://github.com/torshepherd/textual-bee) - A word puzzle for the terminal, written with Textual.
 - [textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - A simple music player (MP3, etc.) using Textual.
 - [textual-paint](https://github.com/1j01/textual-paint) - MS Paint... in your terminal.
