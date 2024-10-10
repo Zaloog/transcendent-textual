@@ -23,6 +23,7 @@ The aim of this wee document was to try and collect together links to as many [T
 - [textual-canvas](https://github.com/davep/textual-canvas) - A simple character-based canvas widget for use with Textual.
 - [textual-countdown](https://github.com/davep/textual-countdown) - A visual countdown timer for Textual applications.
 - [textual-dad-joke](https://github.com/davep/textual-dad-joke) - A dad joke widget for Textual. Seriously.
+- [textual-datepicker](https://pypi.org/project/textual-datepicker) - A Date picker widget for Textual applications.
 - [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - Library that provides a `FileDrop` widget, allowing easy drag/drop into a terminal application.
 - [textual-fspicker](https://github.com/davep/textual-fspicker) - A Textual widget library for picking things in the filesystem.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
