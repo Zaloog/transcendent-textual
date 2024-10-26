@@ -28,6 +28,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-fspicker](https://github.com/davep/textual-fspicker) - A Textual widget library for picking things in the filesystem.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module to display Pandas dataframes in Textual.
+- [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that provides a 'FigletWidget' to integrate PyFiglet into Textual
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that provides a simple QR code widget, using https://qrenco.de/ as the backend.
 - [textual-slider](https://github.com/TomJGooding/textual-slider) - A Textual widget for a simple slider.
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - Library that provides a terminal widget; which can be used to embed other terminal applications inside a Textual application.
