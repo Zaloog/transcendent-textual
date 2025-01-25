@@ -14,6 +14,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-dev](https://github.com/Textualize/textual-dev) - Development tools for Textual.
 - [textual-plotext](https://github.com/Textualize/textual-plotext) - A Textual widget wrapper library for Plotext; the terminal-based plotting and graphing library.
 - [Textual Syntax Highlighter for VSCode](https://marketplace.visualstudio.com/items?itemName=Textualize.textual-syntax-highlighter) - Enables syntax highlighting for Textual's CSS in VSCode.
+- [Textual Syntax Highlighter for NeoVim](https://github.com/cachebag/nvim-tcss) - Enables syntax highlighting for Textual's CSS in NeoVim via Packer, Lazy or Vim-Plug.
 
 ## Third-party libraries
 
