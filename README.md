@@ -41,6 +41,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 
 - [avocet](https://github.com/JoshuaOliphant/avocet) - A bookmark manager that interacts with the raindrop.io API.
 - [baca](https://github.com/wustho/baca) - A TUI Ebook Reader.
+- [bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
 - [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in your terminal.
 - [budgetize](https://github.com/fer-hnndz/budgetize) - A Terminal User Interface (TUI) to create budgets, track your incomes/expenses and manage your finances.
 - [coBib](https://gitlab.com/cobib/cobib) - A simple, command-line based bibliography management tool.
