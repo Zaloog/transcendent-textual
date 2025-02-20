@@ -27,8 +27,10 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-datepicker](https://pypi.org/project/textual-datepicker) - A Date picker widget for Textual applications.
 - [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - Library that provides a `FileDrop` widget, allowing easy drag/drop into a terminal application.
 - [textual-fspicker](https://github.com/davep/textual-fspicker) - A Textual widget library for picking things in the filesystem.
+- [textual-hires-canvas](https://github.com/davidfokkema/textual-hires-canvas) - High-resolution drawing canvas for Textual apps.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module to display Pandas dataframes in Textual.
+- [textual-plot](https://github.com/davidfokkema/textual-plot) - A native plotting widget for Textual apps with zooming/panning support.
 - [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that provides a 'FigletWidget' to integrate PyFiglet into Textual
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that provides a simple QR code widget, using https://qrenco.de/ as the backend.
 - [textual-slider](https://github.com/TomJGooding/textual-slider) - A Textual widget for a simple slider.
