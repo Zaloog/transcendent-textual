@@ -27,6 +27,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-datepicker](https://pypi.org/project/textual-datepicker) - A Date picker widget for Textual applications.
 - [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - Library that provides a `FileDrop` widget, allowing easy drag/drop into a terminal application.
 - [textual-fspicker](https://github.com/davep/textual-fspicker) - A Textual widget library for picking things in the filesystem.
+- [textual-image](https://github.com/lnqs/textual-image) - A module to render images in Textual via Terminal Graphics Protocol and Sixel.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module to display Pandas dataframes in Textual.
 - [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that provides a 'FigletWidget' to integrate PyFiglet into Textual
