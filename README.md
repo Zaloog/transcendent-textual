@@ -1,6 +1,6 @@
 # Introduction
 
-The aim of this wee document is to try and collect together links to as many [Textual](https://textual.textualize.io/)-based applications and third-party tools as possible.
+The aim of this wee document is to try and collect together links to as many [Textual](https://textual.textualize.io/)-based applications and third-party tools as possible. This list is far from exhaustive. Please submit a PR to add your project here!
 
 ## Useful resources
 
