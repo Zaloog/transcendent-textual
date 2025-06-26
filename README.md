@@ -22,6 +22,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-astview](https://github.com/davep/textual-astview) - Widget library and application for exploring the Python abstract syntax tree.
 - [textual-autocomplete](https://github.com/darrenburns/textual-autocomplete) - Add autocompletion to your Textual applications.
 - [textual-canvas](https://github.com/davep/textual-canvas) - A simple character-based canvas widget for use with Textual.
+- [textual-coloromatic](https://github.com/edward-jazzhands/textual-coloromatic) - A widget for animating color effects. Can also tile patterns for making artistic widget backgrounds.
 - [textual-colorpicker](https://github.com/TomJGooding/textual-colorpicker) - A color picker widget for Textual.
 - [textual-countdown](https://github.com/davep/textual-countdown) - A visual countdown timer for Textual applications.
 - [textual-dad-joke](https://github.com/davep/textual-dad-joke) - A dad joke widget for Textual. Seriously.
@@ -33,7 +34,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module to display Pandas dataframes in Textual.
 - [textual-plot](https://github.com/davidfokkema/textual-plot) - A native plotting widget for Textual apps with zooming/panning support.
-- [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that provides a `FigletWidget` to integrate PyFiglet into Textual
+- [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that fully integrates Pyfiglet into Textual, complete with color and animation effects.
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that provides a simple QR code widget, using https://qrenco.de/ as the backend.
 - [textual-slidecontainer](https://github.com/edward-jazzhands/textual-slidecontainer) - Provides a new container, the `SlideContainer`. Makes it easy to create sliding or hidden menu bars.
 - [textual-slider](https://github.com/TomJGooding/textual-slider) - A Textual widget for a simple slider.
