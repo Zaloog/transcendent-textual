@@ -129,6 +129,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-query-sandbox](https://github.com/davep/textual-query-sandbox) - A simple tool for testing and practicing Textual DOM queries.
 - [textual-totp](https://github.com/jepler/textual-totp) - A TOTP (authenticator) application using Python & Textual.
 - [tinboard](https://github.com/davep/tinboard) - A terminal-based client for the Pinboard bookmarking service.
+- [tiptop](https://github.com/nschloe/tiptop) - A command-line system monitoring tool in the spirit of [top](https://en.wikipedia.org/wiki/Top_(software)).
 - [tooi](https://codeberg.org/ihabunek/tooi) - A text-based user interface for Mastodon, Pleroma and friends.
 - [toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [tt-smi](https://github.com/tenstorrent/tt-smi) - Tenstorrent console based hardware information program.
