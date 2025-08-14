@@ -55,6 +55,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil
 - [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in your terminal.
 - [budgetize](https://github.com/fer-hnndz/budgetize) - A Terminal User Interface (TUI) to create budgets, track your incomes/expenses and manage your finances.
+- [cloctui](https://github.com/edward-jazzhands/cloctui) - A TUI interface for CLOC (Count Lines of Code)
 - [close-mongo-ops-manager](https://github.com/closeio/close-mongo-ops-manager) - A simple TUI for monitoring and killing MongoDB operations.
 - [coBib](https://gitlab.com/cobib/cobib) - A simple, command-line based bibliography management tool.
 - [Datadog QA](https://datadoghq.dev/ddqa/) - Datadog's QA manager for releases of GitHub repositories.
@@ -109,6 +110,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [Quizzical](https://github.com/davep/quizzical) - A terminal-based trivia quiz.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - A file-recovery too for GNU/Linux.
 - [rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing.
+- [rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer.
 - [RichColorPicker](https://github.com/PlusPlusMan/RichColorPicker) - Terminal-based color picker with rich color palette.
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) - Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - A Python object inspector.
@@ -116,11 +118,10 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition.
 - [sphoin](https://github.com/Parsecom/sphoin) - A TUI for [sphoin.app](https://sphoin.app)
 - [Spiel](https://github.com/JoshKarpel/spiel) - A terminal-based presentation tool where you build your slides using Python functions.
-- [sqint](https://github.com/cdelker/sqint) - A texutal-based terminal application for viewing, querying, and modifying SQLite databases.
+- [sqint](https://github.com/cdelker/sqint) - A textual-based terminal application for viewing, querying, and modifying SQLite databases.
 - [SuricataLog](https://github.com/josevnz/SuricataLog) - SuricataLog is a set of tools/ scripts to parse and display Suricata log files.
 - [tab-pal](https://github.com/ben-n93/tab-pal) - A TUI that makes it easier to add and edit custom colour palettes in Tableau.
 - [termlauncer](https://github.com/falldeaf/termlauncher) - A command-line based key launcher using Textual.
-- [termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
 - [textchat](https://github.com/rmblau/textchat) - A single server irc client for your terminal
 - [textual-bee](https://github.com/torshepherd/textual-bee) - A word puzzle for the terminal, written with Textual.
 - [textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - A simple music player (MP3, etc.) using Textual.
