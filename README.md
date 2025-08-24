@@ -33,6 +33,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-hires-canvas](https://github.com/davidfokkema/textual-hires-canvas) - High-resolution drawing canvas for Textual apps.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module to display Pandas dataframes in Textual.
+- [textual-pdf](https://github.com/NSPC911/textual-pdf) - A basic Textual widget that allows previewing PDF files using `textual-image`
 - [textual-plot](https://github.com/davidfokkema/textual-plot) - A native plotting widget for Textual apps with zooming/panning support.
 - [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that fully integrates Pyfiglet into Textual, complete with color and animation effects.
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that provides a simple QR code widget, using https://qrenco.de/ as the backend.
