@@ -55,6 +55,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil
 - [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in your terminal.
 - [budgetize](https://github.com/fer-hnndz/budgetize) - A Terminal User Interface (TUI) to create budgets, track your incomes/expenses and manage your finances.
+- [code-puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI code writing tool with a TUI interface
 - [close-mongo-ops-manager](https://github.com/closeio/close-mongo-ops-manager) - A simple TUI for monitoring and killing MongoDB operations.
 - [coBib](https://gitlab.com/cobib/cobib) - A simple, command-line based bibliography management tool.
 - [Datadog QA](https://datadoghq.dev/ddqa/) - Datadog's QA manager for releases of GitHub repositories.
