@@ -33,6 +33,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-hires-canvas](https://github.com/davidfokkema/textual-hires-canvas) - High-resolution drawing canvas for Textual apps.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module to display Pandas dataframes in Textual.
+- [textual-pdf](https://github.com/NSPC911/textual-pdf) - A basic Textual widget that allows previewing PDF files using `textual-image`
 - [textual-plot](https://github.com/davidfokkema/textual-plot) - A native plotting widget for Textual apps with zooming/panning support.
 - [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that fully integrates Pyfiglet into Textual, complete with color and animation effects.
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that provides a simple QR code widget, using https://qrenco.de/ as the backend.
@@ -112,6 +113,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [Quizzical](https://github.com/davep/quizzical) - A terminal-based trivia quiz.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - A file-recovery too for GNU/Linux.
 - [rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing.
+- [rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer.
 - [RichColorPicker](https://github.com/PlusPlusMan/RichColorPicker) - Terminal-based color picker with rich color palette.
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) - Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - A Python object inspector.
@@ -120,11 +122,10 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [spegel](https://github.com/simedw/spegel) - A Terminal Browser That Uses LLMs to Rewrite Webpages
 - [sphoin](https://github.com/Parsecom/sphoin) - A TUI for [sphoin.app](https://sphoin.app)
 - [Spiel](https://github.com/JoshKarpel/spiel) - A terminal-based presentation tool where you build your slides using Python functions.
-- [sqint](https://github.com/cdelker/sqint) - A texutal-based terminal application for viewing, querying, and modifying SQLite databases.
+- [sqint](https://github.com/cdelker/sqint) - A textual-based terminal application for viewing, querying, and modifying SQLite databases.
 - [SuricataLog](https://github.com/josevnz/SuricataLog) - SuricataLog is a set of tools/ scripts to parse and display Suricata log files.
 - [tab-pal](https://github.com/ben-n93/tab-pal) - A TUI that makes it easier to add and edit custom colour palettes in Tableau.
 - [termlauncer](https://github.com/falldeaf/termlauncher) - A command-line based key launcher using Textual.
-- [termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
 - [textchat](https://github.com/rmblau/textchat) - A single server irc client for your terminal
 - [textual-bee](https://github.com/torshepherd/textual-bee) - A word puzzle for the terminal, written with Textual.
 - [textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - A simple music player (MP3, etc.) using Textual.
