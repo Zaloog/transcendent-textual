@@ -27,6 +27,8 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-countdown](https://github.com/davep/textual-countdown) - A visual countdown timer for Textual applications.
 - [textual-dad-joke](https://github.com/davep/textual-dad-joke) - A dad joke widget for Textual. Seriously.
 - [textual-datepicker](https://pypi.org/project/textual-datepicker) - A Date picker widget for Textual applications.
+- [textual-effects](https://github.com/cltrudeau/textual-effects) - Transition
+effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - Library that provides a `FileDrop` widget, allowing easy drag/drop into a terminal application.
 - [textual-fspicker](https://github.com/davep/textual-fspicker) - A Textual widget library for picking things in the filesystem.
 - [textual-image](https://github.com/lnqs/textual-image) - A module to render images in Textual via Terminal Graphics Protocol and Sixel.
