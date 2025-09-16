@@ -27,12 +27,15 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-countdown](https://github.com/davep/textual-countdown) - A visual countdown timer for Textual applications.
 - [textual-dad-joke](https://github.com/davep/textual-dad-joke) - A dad joke widget for Textual. Seriously.
 - [textual-datepicker](https://pypi.org/project/textual-datepicker) - A Date picker widget for Textual applications.
+- [textual-effects](https://github.com/cltrudeau/textual-effects) - Transition
+effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [textual-filedrop](https://github.com/agmmnn/textual-filedrop) - Library that provides a `FileDrop` widget, allowing easy drag/drop into a terminal application.
 - [textual-fspicker](https://github.com/davep/textual-fspicker) - A Textual widget library for picking things in the filesystem.
 - [textual-image](https://github.com/lnqs/textual-image) - A module to render images in Textual via Terminal Graphics Protocol and Sixel.
 - [textual-hires-canvas](https://github.com/davidfokkema/textual-hires-canvas) - High-resolution drawing canvas for Textual apps.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module to display Pandas dataframes in Textual.
+- [textual-pdf](https://github.com/NSPC911/textual-pdf) - A basic Textual widget that allows previewing PDF files using `textual-image`
 - [textual-plot](https://github.com/davidfokkema/textual-plot) - A native plotting widget for Textual apps with zooming/panning support.
 - [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that fully integrates Pyfiglet into Textual, complete with color and animation effects.
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that provides a simple QR code widget, using https://qrenco.de/ as the backend.
@@ -40,6 +43,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-slider](https://github.com/TomJGooding/textual-slider) - A Textual widget for a simple slider.
 - [textual-spinbox](https://github.com/friscorose/textual-spinbox) - A Textual spinbox widget (also in pypi).
 - [textual-tags](https://github.com/Zaloog/textual-tags) - A widget for textual to display tags
+- [textual-timepiece](https://github.com/ddkasa/textual-timepiece) - Library providing various time related widgets, including date pickers, timelines and extras.
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - Library that provides a terminal widget; which can be used to embed other terminal applications inside a Textual application.
 - [textual-universal-directorytree](https://github.com/juftin/textual-universal-directorytree) - Textual plugin for a `DirectoryTree` compatible with remote filesystems.
 - [textual-window](https://github.com/edward-jazzhands/textual-window) A widget for a floating, draggable window and included window bar/manager system.
@@ -55,6 +59,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil
 - [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in your terminal.
 - [budgetize](https://github.com/fer-hnndz/budgetize) - A Terminal User Interface (TUI) to create budgets, track your incomes/expenses and manage your finances.
+- [CLOCtui](https://github.com/edward-jazzhands/cloctui) - A TUI interface for CLOC (Count Lines of Code).
 - [code-puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI code writing tool with a TUI interface
 - [close-mongo-ops-manager](https://github.com/closeio/close-mongo-ops-manager) - A simple TUI for monitoring and killing MongoDB operations.
 - [coBib](https://gitlab.com/cobib/cobib) - A simple, command-line based bibliography management tool.
@@ -94,6 +99,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [lsp-devtools](https://github.com/swyddfa/lsp-devtools) - Tooling for working with language servers and clients.
 - [Lugus](https://github.com/OpenCode/lugus) - A feed reader for the terminal.
 - [mandelexp](https://github.com/davep/textual-mandelbrot) - A Textual Mandelbrot explorer for the terminal.
+- [meine](https://github.com/Balaji01-4D/meine) - A fast, Textual-powered CLI file manager and system utility with smart commands and rich UI.
 - [mlauncher-cli](https://github.com/drHyperion451/mlauncher-cli) - Master Launcher: A classic-like launcher for the Master Levels of Doom2.
 - [moulti](https://github.com/xavierog/moulti) - Moulti is a CLI-driven Terminal User Interface (TUI) that enables you to assign the numerous lines emitted by your scripts to visual, collapsible blocks called steps.
 - [moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
@@ -110,18 +116,19 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [Quizzical](https://github.com/davep/quizzical) - A terminal-based trivia quiz.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - A file-recovery too for GNU/Linux.
 - [rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing.
+- [rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer.
 - [RichColorPicker](https://github.com/PlusPlusMan/RichColorPicker) - Terminal-based color picker with rich color palette.
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) - Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - A Python object inspector.
 - [skylab](https://github.com/SerhiiStets/skylab) - A TUI for showing latest upcoming rocket launches.
 - [smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition.
+- [spegel](https://github.com/simedw/spegel) - A Terminal Browser That Uses LLMs to Rewrite Webpages
 - [sphoin](https://github.com/Parsecom/sphoin) - A TUI for [sphoin.app](https://sphoin.app)
 - [Spiel](https://github.com/JoshKarpel/spiel) - A terminal-based presentation tool where you build your slides using Python functions.
-- [sqint](https://github.com/cdelker/sqint) - A texutal-based terminal application for viewing, querying, and modifying SQLite databases.
+- [sqint](https://github.com/cdelker/sqint) - A textual-based terminal application for viewing, querying, and modifying SQLite databases.
 - [SuricataLog](https://github.com/josevnz/SuricataLog) - SuricataLog is a set of tools/ scripts to parse and display Suricata log files.
 - [tab-pal](https://github.com/ben-n93/tab-pal) - A TUI that makes it easier to add and edit custom colour palettes in Tableau.
 - [termlauncer](https://github.com/falldeaf/termlauncher) - A command-line based key launcher using Textual.
-- [termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
 - [textchat](https://github.com/rmblau/textchat) - A single server irc client for your terminal
 - [textual-bee](https://github.com/torshepherd/textual-bee) - A word puzzle for the terminal, written with Textual.
 - [textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - A simple music player (MP3, etc.) using Textual.
