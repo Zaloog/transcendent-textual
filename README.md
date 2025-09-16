@@ -91,6 +91,7 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [http-tui](https://github.com/treyhunner/http-tui) - A client for testing out HTTP requests.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner.
 - [Ignori](https://github.com/EGAMAGZ/ignori) - Generate .gitignore file without leaving the terminal.
+- [Inkr](https://github.com/xMohnad/Inkr) - An application for inspecting, editing, and managing `Matroska`.
 - [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal.
 - [kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python
 - [kaskade](https://github.com/sauljabin/kaskade) - A kafka text user interface.
